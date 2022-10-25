@@ -1,0 +1,50 @@
+.screen{
+    width: 1200px;
+    margin-left: 15px;
+    height: 120px;
+    background-color:brown;
+    font-size: 100px;
+    color: bisque;
+}
+.btn-yellow{
+    width: 303px;
+    height: 80px;
+    margin-left: -5px;
+    font-size: 50px;
+    background-color:olivedrab;
+    color: bisque;
+    border-top: none;
+}
+.buttons{
+
+    margin-left:20px;
+}
+
+.btn-grey{
+    background-color:orangered; 
+    width: 303px;
+    height: 80px;
+    margin-left: -5px;
+    font-size: 50px;
+    color: bisque;
+    border-top: none;
+}
+button:hover{
+    background: purple;
+}
+#btnequal{
+    width: 303px;
+    height: 80px;
+    background-color: aqua;
+    font-size: 50px;
+    margin-left: -5px;
+    border-top: none;
+}
+#btnclear{
+    width: 303px;
+    height: 80px;
+    background-color:red;
+    font-size: 50px;
+    margin-left: -5px;
+    border-top: none;
+}
